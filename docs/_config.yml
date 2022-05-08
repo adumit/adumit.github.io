@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: andrewdumit
+title: Poorly Calibrated Ponderings
 email: andrew.dumit (at) gmail (dot) com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi 👋! I'm Andrew Dumit. I mostly write about deep learning, both paper reads as well as some of my own thinking, but sometimes I'll write about other things as well. 
