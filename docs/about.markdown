@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi 👋! I'm Andrew Dumit. I mostly write about deep learning, both paper reads as well as some of my own thinking, but sometimes I'll write about other things as well. 
+This site is mostly for me to do more of my thinking and writing in public, but if you find something useful, I'd love to hear from you!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I currently manage the Data Science team at Buoy Health Inc., a health-tech startup whose mission is to be the best place to get better. I was the founding member of the data science team and while at Buoy, I've contributed significantly to the Buoy Assistant chatbot - both the backend systems as well as the AI and ML models that power it. I continue to work on the efficacy of Buoy Assistant as well as Buoy's marketplace product towards making healthcare shoppable.
