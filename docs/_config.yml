@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hi 👋! I'm Andrew Dumit. I mostly write about deep learning, both paper reads as well as some of my own thinking, but sometimes I'll write about other things as well. 
   This site is mostly for me to do more of my thinking and writing in public. If you find something useful, I'd love to hear from you!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://adumit/github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://adumit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  adumit
 linkedin_username: adumit
 
