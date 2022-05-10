@@ -11,8 +11,6 @@ Link: https://arxiv.org/abs/1803.03635
 ## Summary 
 This paper seeks to understand the theory of what makes pruning networks so hard and to provide a plausible explanation for why overparameterization is so helpful. The central hypothesis, the lottery ticket hypothesis, is that large networks contain subnetworks that equally easily reach the high test accuracy that we would otherwise expect from the entire network. The paper covers a range of experiments that slowly build up this hypothesis from very simple networks to more complex ones.
 
-Note: At this point, this paper is a little bit old as the field moves super fast. However, the line of work that has emerged from this paper continues to fascinate me. Having smaller, sparser networks that train more easily is clearly a useful goal to aim towards.
-
 ## The lottery ticket hypothesis in action
 **The Lottery Ticket Hypothesis:** A randomly-initialized, dense neural network contains a subnet- work that is initialized such that—when trained in isolation—it can match the test accuracy of the original network after training for at most the same number of iterations.
 
