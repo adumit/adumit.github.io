@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Paper read: How to decay your learning rate"
+date:   2022-05-10 12:00:00 +0200
+categories: paper-reads
+---
+
 # How to decay your learning rate
 
 Paper link: [https://arxiv.org/pdf/2103.12682.pdf](https://arxiv.org/pdf/2103.12682.pdf)
