@@ -18,7 +18,7 @@ This paper tries to find a way to improve contrastive learning processes by visu
 Figure 1 shows the score distributions of positive examples. Their intention is to demonstrate that harder positive examples (as indicated by the lower score) take longer to converge. In (c) when they apply the method from (b) to decrease the scores they see  improved performance.
 
 ### Defining the method
-The authors define a feature transformation process as manipulations on the latent embeddings produced by the encoder embeddings h<sub>q</sub> and h<sub>k</sub> to improve contrastive learning. In , !\[my previous post on contrastive learning\](), this appears to map to the basic setup of contrastive learning and directly learning on the embedding space. Figure 2 from the paper demonstrates this visually: 
+The authors define a feature transformation process as manipulations on the latent embeddings produced by the encoder embeddings h<sub>q</sub> and h<sub>k</sub> to improve contrastive learning. In , ![my previous post on contrastive learning]({{site.url}}/_posts/2022-05-11-survey-on-self-supervised-contrastive-learning.md), this appears to map to the basic setup of contrastive learning and directly learning on the embedding space. Figure 2 from the paper demonstrates this visually: 
 ![FT-SSCL image 2]({{site.url}}/assets/images/FT-SSCL/image_2.png)
 
 The score they use for the feature transformation process and to get to their intended outcome is simply the cosine similarity between the l2 norms of the two feature vectors produced by the model.
