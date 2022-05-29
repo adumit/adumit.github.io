@@ -22,7 +22,8 @@ Linda is a bank teller and is active in the feminist movement._
 The students ranked "Linda is a bank teller and is active in the feminist movement" more highly than "Linda is a bank teller". This is a violation of a logical rule about the probability of two things occurring together, P(A & B), vs. the probability of one of those things occurring, P(A). If P(A & B) is true, than P(A) must be true. Thus, P(A) is strictly more likely than P(A & B). Nonetheless, these students stuck to their guns even in the face of this bias. This got me thinking, does GPT-3 have the same bias?
 
 I sought to test a simplified version of the prompt with just two options. GPT-3 exhibits the same bias!
-> <b> Linda is thirty-one years old, single, outspoken, and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in antinuclear demonstrations. Which of the following statements is most likely: (A) Linda is a bank teller. (B) Linda is a bank teller and is active in the feminist movement.
+> <b> Q: Linda is thirty-one years old, single, outspoken, and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in antinuclear demonstrations. Which of the following statements is most likely: (A) Linda is a bank teller. (B) Linda is a bank teller and is active in the feminist movement.
+
 A:</b> B
 
 The bias is even still present when I flip the answers!
