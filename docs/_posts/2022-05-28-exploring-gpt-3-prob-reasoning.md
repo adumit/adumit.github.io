@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Does GPT-3 understand probabilistic reasoning?"
+date:   2022-05-28 16:00:00 +0200
+categories: experiments
+---
+
 I was reading [this paper](https://arxiv.org/abs/2205.11916) about how we can improve GPT-3's reasoning capabilities simply by asking for it. The paper itself was really cool! But, a figure in the paper really caught my eye.
 
 ![Reasoning image 1]({{site.url}}/assets/images/gpt-3-reasoning/figure-4-from-paper.png)
