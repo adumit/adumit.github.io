@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Paper read: Transformer Language Models without Positional Encodings Still Learn Positional Information"
+date:   2022-06-07 16:00:00 +0200
+categories: paper-reads
+---
+
 # Transformer Language Models without Positional Encodings Still Learn Positional Information
 Link: https://arxiv.org/abs/2203.16634
 
