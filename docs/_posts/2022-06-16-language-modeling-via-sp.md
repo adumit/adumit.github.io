@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Paper read: Language Modeling via Stochastic Processes"
+date:   2022-06-16 16:00:00 +0200
+categories: paper-reads
+---
+
 # Language Modeling Via Stochastic Processes
 Link: https://openreview.net/forum?id=pMQwKL1yctf
 
