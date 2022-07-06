@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Does GPT-3 understand probabilistic reasoning?"
+title:  "Experiments: Does GPT-3 understand probabilistic reasoning?"
 date:   2022-05-28 16:00:00 +0200
 categories: experiments
 ---
