@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Paper read: Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution"
+date:   2022-07-06 16:00:00 +0200
+categories: paper-reads
+---
+
 # Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution
 Link: [https://openreview.net/pdf?id=UYneFzXSJWh](https://openreview.net/pdf?id=UYneFzXSJWh)
 
